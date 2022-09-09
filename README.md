@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on anything tech or music related!
 - 📫 You can get in touch on [LinkedIn](https://www.linkedin.com/in/mult-vit/)
 
+</br> 
+
 ![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=multi-vit&show_icons=true&theme=radical)
 
 </br> 
