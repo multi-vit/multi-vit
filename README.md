@@ -1,9 +1,6 @@
 # Hi, I’m Andy👋
-- 👀 I’m a Northants based tuba player, pianist and teacher who swapped the teaching for coding! 
-- 🌱 I’m currently learning to code with School of Code (https://schoolofcode.com/) - Bootcamp 12
-- 💞️ I’m looking to collaborate on anything tech or music related!
-- 📫 You can get in touch on [LinkedIn](https://www.linkedin.com/in/mult-vit/)
 
+In a former life, I was a peripatetic music teacher, then I completed [School of Code](https://schoolofcode.com/)'s Bootcamp 12. When I'm not coding, I still regularly play the tuba and piano. Feel free to get in touch on [LinkedIn](https://www.linkedin.com/in/mult-vit/)
 </br> 
 
 ![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=multi-vit&show_icons=true&theme=radical)
@@ -11,6 +8,10 @@
 </br> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=multi-vit&langs_count=8&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+
+![Codewars](https://github.r2v.ch/codewars?user=multi-vit)
 
 ### 💻 Technologies
 
