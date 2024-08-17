@@ -5,13 +5,9 @@ In a former life, I was a peripatetic music teacher, then I completed [School of
 
 ![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=multi-vit&show_icons=true&theme=radical)
 
-</br> 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=multi-vit&langs_count=8&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-</br>
-
-![Codewars](https://github.r2v.ch/codewars?user=multi-vit)
+![Codewars](https://www.codewars.com/users/multi-vit/badges/large)
 
 ### 💻 Technologies
 
